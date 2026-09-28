@@ -3,6 +3,8 @@
 An end-to-end **Food Delivery Data Analysis** project using **SQL, Excel, and Tableau** to analyze order performance, sales, restaurant performance, customer behavior, delivery operations, and customer experience.
 
 ---
+![Excel Dashboard](DATA/excel_dashboard1.png) ![Excel Dashboard](DATA/excel_dashboard2.png) ![Excel Dashboard](DATA/excel_dashboard3.png)
+
 
 ## Project Overview
 
@@ -130,7 +132,4 @@ Food-Delivery-Data-Analysis/
 │
 └── README.md
 
-![Excel Dashboard](data/excel_dashboard1.png)
-![Excel Dashboard](data/excel_dashboard2.png)
-![Excel Dashboard](data/excel_dashboard3.png)
 
