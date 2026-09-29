@@ -1,2 +1,5 @@
-*.ipynb linguist-language=Python
+*.twbx binary
+* text=auto
+
+*.twbx linguist-language=Tableau
 *.sql linguist-detectable=true
