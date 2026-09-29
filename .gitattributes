@@ -1,5 +1,5 @@
 *.twbx binary
 * text=auto
 
-*.twbx linguist-language=Tableau
+*.twbx linguist-language=XML
 *.sql linguist-detectable=true
